@@ -3,9 +3,14 @@ import Home from "./pages/Home";
 import Signup from "./pages/Signup";
 import Signin from "./pages/Signin";
 import { useAuthContext } from "./hooks/useAuthContext";
+import { useEffect } from "react";
 
 function App() {
   const { user } = useAuthContext();
+
+  useEffect(() => {
+    console.log("something changed in user state");
+  }, []);
   return (
     <BrowserRouter>
       <Routes>
