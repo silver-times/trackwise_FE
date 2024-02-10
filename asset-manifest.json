@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trackwise_FE/static/css/main.47089888.css",
-    "main.js": "/trackwise_FE/static/js/main.952f2847.js",
+    "main.js": "/trackwise_FE/static/js/main.eecc0e8a.js",
     "static/media/barbell.jpg": "/trackwise_FE/static/media/barbell.f9cfeabef495a464b4d8.jpg",
     "index.html": "/trackwise_FE/index.html",
     "main.47089888.css.map": "/trackwise_FE/static/css/main.47089888.css.map",
-    "main.952f2847.js.map": "/trackwise_FE/static/js/main.952f2847.js.map"
+    "main.eecc0e8a.js.map": "/trackwise_FE/static/js/main.eecc0e8a.js.map"
   },
   "entrypoints": [
     "static/css/main.47089888.css",
-    "static/js/main.952f2847.js"
+    "static/js/main.eecc0e8a.js"
   ]
 }
